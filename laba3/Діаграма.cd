@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bird">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Птах.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAQAAABAAAAAAIAAAEAAAAIAAAAAACAAA=</HashCode>
+      <FileName>Тварина.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mammals">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Ссавці.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Evenungulates">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Парнокопитні.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
